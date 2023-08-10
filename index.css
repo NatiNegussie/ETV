@@ -6,7 +6,7 @@ body {
     padding: 0;
     margin: 0;
     width: 100%;
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.2), rgba(0, 0, 0.1)), url('medium-shot-boy-portrait-with-graduation-background.jpg');
+    background: url("v1015-101a.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -213,4 +213,7 @@ footer {
 }
 .bottom a:hover {
     color: olive;
+}
+#in-page-channel-node-id {
+    display: none;
 }
